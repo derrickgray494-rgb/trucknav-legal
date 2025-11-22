@@ -1,0 +1,71 @@
+TruckNav Pro Privacy Policy - Plain Language Version
+Last Updated: January 2025
+The Short Version
+We collect your info to make the app work. We don't sell your data. Ever.
+What We Collect
+Stuff you give us:
+Your email, name, and password when you sign up
+Your truck details (size, weight, hazmat, etc.)
+Routes and trips you create
+Your driving hours (HOS logs)
+Expenses and receipt photos you upload
+Stuff we collect automatically:
+Your location (for navigation)
+What device you're using
+How you use the app
+Crash reports (to fix bugs)
+From other companies:
+Maps from Google
+Login info if you use "Sign in with Apple"
+Apple handles all payments - we never see your credit card
+What We Do With Your Data
+Give you truck-safe GPS directions
+Track your Hours of Service
+Help you track expenses for taxes
+Calculate mileage deductions
+Sync your stuff across devices
+Fix problems and improve the app
+Send you important app updates (not ads)
+Where Your Data Lives
+Cloud: Encrypted database (Supabase)
+Your phone: Cached maps and offline data
+Apple Keychain: Your login credentials (secure)
+Everything is encrypted. We use the same security banks use.
+Who Sees Your Data
+We NEVER sell your data. We only share with:
+Google Maps - for maps and directions
+Supabase - stores your data securely
+RevenueCat - handles subscriptions
+Apple - processes payments
+These companies can only use your data to provide their services to us. We might share data if:
+The law requires it (court order, etc.)
+DOT/FMCSA needs your HOS logs for an audit
+How Long We Keep Things
+Your account data: As long as you have an account
+After you delete your account: Gone within 30 days
+HOS logs: 6 months (required by law)
+Expense records: 7 years (IRS recommendation)
+Your Choices
+You can:
+Edit your profile and settings anytime in the app
+Export your trips, HOS logs, and expenses
+Delete your entire account (Settings → Account → Delete Account)
+Turn off location access in your phone settings
+Turn off notifications
+California residents: You have extra rights under CCPA. Email privacy@trucknavpro.com. European residents: You have extra rights under GDPR. Same email.
+About Location Tracking
+Why we need it:
+Turn-by-turn directions
+Finding truck-safe routes (avoiding low bridges, weight limits)
+Traffic updates
+Automatic HOS logging
+Mileage tracking for taxes
+You control it: Change location permissions anytime in iOS Settings.
+Kids
+This app is for adults only. You need a CDL to drive a commercial truck (minimum age 18-21). We don't collect data from anyone under 18.
+Changes to This Policy
+If we change something important, we'll let you know in the app and ask for your OK.
+Questions?
+Privacy questions: privacy@trucknavpro.com
+General support: support@trucknavpro.com
+By using TruckNav Pro, you agree to this policy. © 2025 TruckNav Pro
